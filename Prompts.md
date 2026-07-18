@@ -1,0 +1,1 @@
+Design a modern and responsive FAQ (Frequently Asked Questions) section for a developer conference website named DevConf 2026. The design should seamlessly match the existing website
